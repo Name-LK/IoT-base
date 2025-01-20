@@ -1,0 +1,3 @@
+THINGSBOARD_HOST = 'thingsboard.cloud'
+ACCESS_TOKENS = ['DEVICE_TOKEN']
+INTERVAL = 5
